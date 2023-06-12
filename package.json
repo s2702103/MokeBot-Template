@@ -1,11 +1,11 @@
 {
-  "name": "mokebottemplate",
-  "version": "1.0.0",
-  "description": "Bot Template",
-  "main": "index.js",
-  "scripts": {
-    "test": "!help"
+  "name": "mokebottemplate", // Change name you want
+  "version": "1.0.0", // Don't change this
+  "description": "Bot Template", // Change this to desc
+  "main": "index.js", // KEEP THIS AS INDEX.JS OR IT DIES
+  "scripts": { 
+    "test": "!help" // I HAVE NO FUCKING IDEA WHY THIS EXISITS
   },
-  "author": "Unfore",
-  "license": "ISC"
+  "author": "Unfore", // delete this
+  "license": "ISC" // i didn't go to law school so idk
 }
