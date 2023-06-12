@@ -1,0 +1,11 @@
+{
+  "name": "mokebottemplate",
+  "version": "1.0.0",
+  "description": "Bot Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "!help"
+  },
+  "author": "Unfore",
+  "license": "ISC"
+}
